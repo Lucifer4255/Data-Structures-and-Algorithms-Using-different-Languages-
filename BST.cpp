@@ -1,4 +1,5 @@
-// Binary search tree and all of its operations
+// Here is the basic implementation of a binary search tree 
+// in this code all the opearions like - insert , inorder traversal , preorder traversal,smallest  node ,largest node,height of a node, sum of nodes are mentioned..
 // code by - Suhotra Dey
 #include<iostream>
 #include<stdlib.h>
