@@ -1,3 +1,5 @@
+// Binary search tree and all of its operations
+// code by - Suhotra Dey
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
